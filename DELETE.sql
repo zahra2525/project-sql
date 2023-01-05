@@ -1,0 +1,1 @@
+DELETE FROM Person.Address WHERE City='Stavanger'
